@@ -1,4 +1,13 @@
-.backgroud - img-1 {
+{
+  margin: 0px;
+  padding:0px;
+}
+
+.background-img-1{
+  display: flex;
+  flex-direction: colum;
+  justify-content: center;
+  align-items: center;
   width: 100%
   height; 600 px
   background: url('./download (1).jpeg') no-repeat-center;
